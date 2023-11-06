@@ -13,6 +13,8 @@ function App() {
         <h2><a href="https://homolcheckin.siegestao.com.br/recepcheckindemo">Checkin Recep Demonstracao</a></h2>
         <h2><a href="https://homolcheckin.siegestao.com.br/hpfhomol">Checkin HPF Homol</a></h2>
         <h2><a href="https://homolcheckin.siegestao.com.br/recephpfhomol">Checkin Recep HPF Homol</a></h2>
+        <h2><a href="https://homolcheckin.siegestao.com.br/coliseumhomol">Checkin COLISEUM Homol</a></h2>
+        <h2><a href="https://homolcheckin.siegestao.com.br/recepcoliseumhomol">Checkin Recep COLISEUM Homol</a></h2>
         <h2><a href="http://saltinfo.no-ip.com:8080">Gestao 1a versao</a></h2>
         <h2><a href="http://siegestao.com.br/gestaodemo">Gestao Demonstracao</a></h2>
         <h2><a href="http://siegestao.com.br/catarinahomol">Gestao Catarina Homol</a></h2>
